@@ -1,0 +1,156 @@
+#viewBox {
+    color: white;
+    margin-left: 5px;
+    margin-top: 7px;
+}
+
+#divviewbox {
+    margin-right: 100px;
+    margin-left: 20px;
+    background-color: black;
+    height: 50px;
+    width: 25px;
+}
+
+
+
+.digital {
+    width: 100%;
+    height: 500px;
+    /* height: auto; */
+    background-size: cover;
+    background-image: url("logo/office-desk-6952919_1280.jpg") !important;
+    /* background-image: url("logo/Header.jpg") !important; */
+    opacity: black 0.9;
+    position: cover !important;
+
+
+}
+
+.digital2>h1 {
+
+    padding: 20px;
+    border-left: 3px solid pink;
+
+}
+
+.digital2>p {
+    padding-bottom: 20px;
+    font-size: 18px;
+
+}
+
+.digital2 {
+    padding: 10% !important;
+    text-align: center;
+    opacity: 0.9;
+    /* border-left: 5px solid pink; */
+
+    /* text-align: left; */
+    color: white;
+}
+
+
+
+#launch {
+    background-image: linear-gradient(to right, rgb(255, 152, 42), rgb(255, 42, 95));
+    width: 100%;
+    height: 140px;
+}
+
+#launch2 {
+    margin-left: 30px;
+    color: white;
+
+}
+
+
+
+.h5 {
+    margin-top: 20px !important;
+}
+
+/* .digital2>input */
+
+#request1 {
+    /* background-color: none; */
+    background-color: transparent;
+    border-radius: 15px;
+    height: 35px;
+    text-align: center;
+    border: 2px solid rgb(219, 207, 191);
+    ;
+    margin-left: 10px;
+    width: 200px;
+    color: rgb(219, 207, 191);
+}
+
+#request {
+    width: 120px;
+}
+
+#header-frist {
+    background-image: linear-gradient(to right, rgb(255, 152, 42), rgb(255, 42, 95));
+}
+
+
+#nav-frist {
+    margin-left: 80px;
+    color: white !important;
+}
+
+/* 
+#head-4 {
+    background-color: rgb(255, 80, 124);
+    background-color: none;
+} */
+
+#request {
+    color: white;
+    background-image: linear-gradient(to right, rgb(255, 152, 42), rgb(255, 42, 95));
+    border: none;
+    border-radius: 15px;
+    height: 35px;
+    text-align: center;
+
+}
+
+
+#btn {
+    color: white;
+    background-image: linear-gradient(to right, rgb(255, 152, 42), rgb(255, 42, 95));
+    border: none;
+    border-radius: 15px;
+    height: 35px;
+    text-align: center;
+    margin-top: 10px;
+
+}
+
+#ser {
+    margin-bottom: 20px;
+    margin-top: 50px;
+    margin-left: 5px;
+    border-bottom: 2px solid rgb(255, 162, 48);
+    width: 175px;
+    padding-top: 20px;
+}
+
+#webh4 {
+    margin-top: 20px;
+}
+
+#underline1 {
+    border-bottom: 2px solid rgb(255, 162, 48);
+    width: 140px;
+
+}
+
+.lorem {
+    opacity: 0.7;
+}
+
+
+.boderone {
+    border-bottom-left-radius: 2px solid pink !important;
+}
